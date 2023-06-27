@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\BoilerPlate Adaptation\\WebApplicationCQRS\\WebApplicationCQRS\\WebApplicationCQRS.csproj": {}
+    "C:\\Users\\User\\Desktop\\BoilerPlate Adaptation\\Session3\\WebApplicationCQRS\\WebApplicationCQRS\\WebApplicationCQRS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\BoilerPlate Adaptation\\WebApplicationCQRS\\WebApplicationCQRS\\WebApplicationCQRS.csproj": {
+    "C:\\Users\\User\\Desktop\\BoilerPlate Adaptation\\Session3\\WebApplicationCQRS\\WebApplicationCQRS\\WebApplicationCQRS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\BoilerPlate Adaptation\\WebApplicationCQRS\\WebApplicationCQRS\\WebApplicationCQRS.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\BoilerPlate Adaptation\\Session3\\WebApplicationCQRS\\WebApplicationCQRS\\WebApplicationCQRS.csproj",
         "projectName": "WebApplicationCQRS",
-        "projectPath": "C:\\Users\\User\\Desktop\\BoilerPlate Adaptation\\WebApplicationCQRS\\WebApplicationCQRS\\WebApplicationCQRS.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\BoilerPlate Adaptation\\Session3\\WebApplicationCQRS\\WebApplicationCQRS\\WebApplicationCQRS.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\BoilerPlate Adaptation\\WebApplicationCQRS\\WebApplicationCQRS\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\BoilerPlate Adaptation\\Session3\\WebApplicationCQRS\\WebApplicationCQRS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

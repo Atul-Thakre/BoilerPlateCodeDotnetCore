@@ -1,0 +1,4 @@
+2023-06-27 17:50:34.491 +05:30 [INF] GetAllCourses Get Triggred
+2023-06-27 17:58:14.290 +05:30 [INF] GetCourse(int id) Get Triggred
+2023-06-27 17:58:35.772 +05:30 [INF] AddCourse() Get Triggred
+2023-06-27 17:58:47.351 +05:30 [INF] DeleteCourse(int id) Get Triggred

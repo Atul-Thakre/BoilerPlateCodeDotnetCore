@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ELFY7IehBBQR+5ax5bL0TNI1VRbI5mCtBVF0iWJ1LKxq3GsN4sYN+kMCVKYwLUJkogNOAt4bfOUbCftUoI4MwQ==",
+  "dgSpecHash": "lsnjl4tN25EqklSJ2D4VbxIVk929pUhlNa/lfLr2a67iSfAWT/fRPIRzzhmdSFDZatfc5CksLY++Y6Lin15KXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\BoilerPlate Adaptation\\WebApplicationCQRS\\WebApplicationCQRS\\WebApplicationCQRS.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\BoilerPlate Adaptation\\Session3\\WebApplicationCQRS\\WebApplicationCQRS\\WebApplicationCQRS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
